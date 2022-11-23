@@ -1,5 +1,6 @@
 // @deno-types="npm:@types/express"  👈タイプ情報
-import express from "npm:express@4";
+// import express from "npm:express@4";
+import express  from "npm:express";
 
 const app = express();
 const PORT = 3000;
